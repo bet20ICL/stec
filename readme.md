@@ -1,1 +1,2 @@
-STEC
+# STEC
+systematic trading stuff
